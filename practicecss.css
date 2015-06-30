@@ -1,0 +1,56 @@
+.box {
+	background-image: url('http://www.hwschools.net/uploaded/Guidance/13-14/Photos/college.jpg');
+	background-size: cover;
+}
+
+.title {
+	font-size: 100px;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding: 20px 20px 0px 20px;
+}
+
+.subtitle {
+	font-family: sans-serif;
+	font-size: 40px;
+	padding: 0px 20px 20px 20px;
+}
+
+.nav-bar {
+	position: fixed;
+	top: 0px;
+	float: right;
+	width: 50%;
+}
+
+.toggle-nav {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: #ff0000;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 10px;
+	float: left;
+	width: 10%;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	font-style: italic;
+}
+
+li {
+	display: inline;
+}
+
+.info {
+	display: inline-block;
+	padding: 10px;
+	width: 31%;
+	vertical-align: top;
+}
